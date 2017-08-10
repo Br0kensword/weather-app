@@ -1,0 +1,18 @@
+
+.input_group {
+	margin: 20px 0px;
+}
+
+.form-control {
+	width:75% !important;
+}
+
+td:first-of-type, td:first-of-type > div {
+	height: 200px;
+	width: 240px;
+}
+
+
+
+
+
